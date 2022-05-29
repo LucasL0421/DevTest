@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_str_location">Location</string>
+    <string name="_str_ads">Ads</string>
+    <string name="permission_location">Permission Location</string>
+    <string name="nav_settings_text">Settings</string>
+    <string name="hello_blank_fragment">Camera Blank Fragment</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string name="os_tab_text">OS Info</string>
+    <string name="device_tab_text">Device Info</string>
+    <string name="cpu_tab_text">CPU Info</string>
+    <string name="battery_tab_text">Battery</string>
+    <string name="storage_tab_text">Storage</string>
+    <string name="camera_tab_text">Camera</string>
+    <string name="network_tab_text">Network</string>
+    <string name="sensor_tab_text">Sensors</string>
+    <string name="display_tab_text">Display</string>
+</resources>
